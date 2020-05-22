@@ -1,5 +1,4 @@
 #!/bin/bash
-#new
 echo "Ver:1.3"
 echo "This is a script from github"
 SUM=$(($num1 + $num2))
